@@ -2,8 +2,7 @@
 
 You can send me a coffee in the link below :) 
 
-https://BuyMeACoffee-Dapp.lmunoz-m.repl.co
-
+https://buymecoffee-lmunoz-m.vercel.app/
 
 To deploy an smart contract in goerli
 ```js

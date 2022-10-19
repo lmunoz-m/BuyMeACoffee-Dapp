@@ -10,11 +10,11 @@ To deploy an smart contract in goerli
 	npx hardhat run scripts/deploy.js --network goerli
 ```
 
-1. 
+1. First step
 ```js
-npm install
+	npm install
 ```
-2. /FrontEnd 
+2. Second step, inside /FrontEnd 
 ```js
-npm run dev
+	npm run dev
 ```
